@@ -24,7 +24,7 @@ SECRET_KEY = '2c=p^pr6%1u=air%-@t*dx59r56g300)$=n)9*k73b$ybgzz0&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+#ddd
 ALLOWED_HOSTS = []
 
 
