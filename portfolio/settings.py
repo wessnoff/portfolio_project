@@ -25,7 +25,7 @@ SECRET_KEY = '2c=p^pr6%1u=air%-@t*dx59r56g300)$=n)9*k73b$ybgzz0&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 #ddd
-ALLOWED_HOSTS = ['']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -82,7 +82,7 @@ DATABASES = {
         #'USER': 'postgres',
         #'PASSWORD': 'PosTgr3s',
         #'HOST': 'localhost',
-	'NAME': 'portfoliodb',
+	    'NAME': 'portfoliodb',
         'USER': 'portfolio',
         'PASSWORD': 'Aa111111',
         'HOST': 'localhost',
