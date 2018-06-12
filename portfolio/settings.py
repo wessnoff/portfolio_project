@@ -82,7 +82,7 @@ DATABASES = {
         #'USER': 'postgres',
         #'PASSWORD': 'PosTgr3s',
         #'HOST': 'localhost',
-	    'NAME': 'portfoliodb',
+	'NAME': 'portfoliodb',
         'USER': 'portfolio',
         'PASSWORD': 'Aa111111',
         'HOST': 'localhost',
